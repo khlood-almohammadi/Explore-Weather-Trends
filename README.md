@@ -17,7 +17,7 @@ about the similarities and differences between the world averages and our city�
  -  “How do the changes in our city’s temperatures over time compare to the changes in the global average?”
  -  What does the overall trend look like? Is the world getting hotter or cooler? Has the trend been consistent over the last few hundred years?
     
-    Submission
+ # Submission
 
 our submission should be a PDF that includes:
 
