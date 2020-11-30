@@ -41,3 +41,13 @@ we notice an increasing rise in recorded temperatures, whether at the local or g
 
 3) Compared to global ،The average temperature of the Tokyo increases by 3.69 °C in the lower temperature And the difference in high temperatures by 4.32 °C in the highest temperature.
 
+4) Moving averages at the local and global levels are almost constant and have the same slight variations in trends.
+
+5) Important note: In 2004, Tokyo recorded 14.05 °C, the highest temperature in the data, while at the same time global temperatures recorded a decrease of 9.32 °C. Meaning that the temperature increase in Tokyo coincided with a relatively low rate in the rest of the countries, based on the recorded data, with a difference of 4.73 degrees recorded for Tokyo.
+
+After that, Tokyo recorded a drop in temperatures In 2005, it recorded a temperature of 12.99 °C, down 1.06 °C degrees from the previous year 2004, and 3.29 °C higher than the world temperature
+
+6) Finally, I highly recommend visiting Tokyo in the spring or autumn season to enjoy the beautiful scenery, but a little advice do not forget to carry a jacket with you to protect from some cold surprises, especially after sunset.
+
+
+
