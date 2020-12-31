@@ -33,7 +33,7 @@ An outline of steps taken to prepare the data to be visualized in the chart, suc
 .. 
 
 ## 1) In general,We came to the following conclusions
-
+.. 
 
 we notice an increasing rise in recorded temperatures, whether at the local or global level, and perhaps one of the reasons for this increase is environmental pollution.
 
