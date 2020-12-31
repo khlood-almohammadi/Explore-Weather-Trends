@@ -30,7 +30,7 @@ An outline of steps taken to prepare the data to be visualized in the chart, suc
 
 [Rubric](https://review.udacity.com/#!/rubrics/1125/view)
 
-.. 
+.... 
 
 ## 1) In general,We came to the following conclusions
 .. 
