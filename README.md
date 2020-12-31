@@ -6,7 +6,7 @@ rom the database. There's a workspace in the previous section that is connected 
 
    - Write a SQL query to extract the city level data. Export to CSV.
    - Write a SQL query to extract the global data. Export to CSV.
-  
+ .. 
  # Create a line chart
  that compares our city’s temperatures with the global temperatures. Make sure to plot the moving average rather than the yearly averages in order to smooth out the lines, making trends more observable (the last concept in the previous lesson goes over how to do this in a spreadsheet).
 .. 
