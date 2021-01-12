@@ -21,7 +21,8 @@ about the similarities and differences between the world averages and our cityâ€
  -  What does the overall trend look like? Is the world getting hotter or cooler? Has the trend been consistent over the last few hundred years?
     
  # Submission
-.. 
+
+
 our submission should be a PDF that includes:
 
 An outline of steps taken to prepare the data to be visualized in the chart, such as:
