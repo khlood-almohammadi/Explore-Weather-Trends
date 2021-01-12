@@ -56,4 +56,5 @@ After that, Tokyo recorded a drop in temperatures In 2005, it recorded a tempera
 6) Finally, I highly recommend visiting Tokyo in the spring or autumn season to enjoy the beautiful scenery, but a little advice do not forget to carry a jacket with you to protect from some cold surprises, especially after sunset.
 
 
-.. 
+
+
