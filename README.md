@@ -40,6 +40,7 @@ An outline of steps taken to prepare the data to be visualized in the chart, suc
 
 
 
+
 we notice an increasing rise in recorded temperatures, whether at the local or global level, and perhaps one of the reasons for this increase is environmental pollution.
 
 2) Depending on the geographical location, Tokyo has all its four seasons and records moderate temperatures, which makes preparing for tourist trips a good idea.
