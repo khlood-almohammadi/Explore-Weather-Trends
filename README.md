@@ -35,7 +35,6 @@ An outline of steps taken to prepare the data to be visualized in the chart, suc
 
 
 
-
 ## 1) In general,We came to the following conclusions
 
 
